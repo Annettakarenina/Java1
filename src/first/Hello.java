@@ -49,6 +49,8 @@ public class Hello {
     	System.out.print("I make "+salary+" dollars.");
     	System.out.print("I will get a "+salaryraise+" raise next year so my total salary would be "+(salary+salaryraise)+".");
     }
-    
+    public static void pro() {
+    	System.out.println("java is smart");
+    }
     
 }
